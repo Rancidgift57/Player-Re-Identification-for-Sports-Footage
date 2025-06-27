@@ -1,0 +1,9 @@
+opencv-python
+torch
+torchvision
+ultralytics
+numpy
+pytesseract
+scenedetect
+deep-sort-realtime
+scipy
