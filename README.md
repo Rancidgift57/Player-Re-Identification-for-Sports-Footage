@@ -404,4 +404,4 @@ This project is open-source and distributed under the **MIT License**. For full 
 For any questions, feedback, or potential contributions to this project, please feel free to:
 
  
-  * **Contact the project maintainer**  LinkedIn: https://www.linkedin.com/in/nikhil-nair-809248286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  Email: nnair7598@gmail.com
+  * **Contact the project maintainer**  <br>LinkedIn: https://www.linkedin.com/in/nikhil-nair-809248286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app <br> Email: nnair7598@gmail.com
