@@ -114,7 +114,7 @@ project_directory/
 │   ├── homography_angle2.npy          # Precomputed homography matrix for scene 2
 │   ├── ...                           # Additional homography matrices for other scenes
 │   ├── tesseract.exe                 # Tesseract OCR executable (primarily for Windows installations)
-├── player_tracking.py                # The main script that runs the player tracking system
+├── playerreid.py                # The main script that runs the player tracking system
 ├── README.md                         # This README file
 ```
 
