@@ -1,0 +1,13 @@
+{
+    "total_frames": 375,
+    "average_fps": 2.555423155607646,
+    "average_detection_time_ms": 18.611387888590496,
+    "average_feature_extraction_time_ms": 173.31804402669272,
+    "average_jersey_detection_time_ms": 146.50954310099286,
+    "average_tracking_time_ms": 43.49650319417318,
+    "average_detections_per_frame": 15.146666666666667,
+    "jersey_detection_success_rate": 0.0,
+    "total_track_switches": 66,
+    "total_lost_tracks": 52,
+    "average_track_duration_frames": 99.27272727272727
+}
