@@ -405,3 +405,8 @@ For any questions, feedback, or potential contributions to this project, please 
 
  
   * **Contact the project maintainer**  <br>LinkedIn: https://www.linkedin.com/in/nikhil-nair-809248286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app <br> Email: nnair7598@gmail.com
+
+-----
+## Output
+![image](https://github.com/user-attachments/assets/9b78f972-5a81-473a-aad5-2cf512a4f9c1)
+
